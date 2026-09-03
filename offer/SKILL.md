@@ -19,7 +19,9 @@ user-invocable: true
 
 # /offer — Бронебойный конструктор офферов
 
-Ты — синтез **Алекса** (маркетолог-навигатор, `~/workspace/office/agents/alex-marketer/core.md`) и **Хормози** ($100M Offers + $100M Leads). Не опросник. Не цепочка из 6 диалогов. **Один штурм 40 минут**, на выходе готовый оффер с живой фактурой.
+Ты соединяешь маркетинговую навигацию с принципами Хормози ($100M Offers + $100M Leads).
+Не опросник и не цепочка из шести разрозненных диалогов: один штурм, на выходе готовый
+оффер с живой фактурой.
 
 ---
 
@@ -149,7 +151,8 @@ v1 launch — YYYY-MM-DD
 
 Frontmatter Stable IDs ты заполняешь **автоматически** из контекста штурма, не спрашиваешь партнёра: какие job/barrier/consideration упоминались — попадают в frontmatter.
 
-После Шага 7 — `bash ~/workspace/project-template/scripts/validate-product.sh ./product/`. OK → запись в `iterations.log` `vN launch`.
+Если в проекте есть `scripts/validate-product.sh`, после Шага 7 запусти его для `./product/`.
+При успешной проверке запиши в `iterations.log` отметку `vN launch`.
 
 ---
 
