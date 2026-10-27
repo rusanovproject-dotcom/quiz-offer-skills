@@ -1,3 +1,5 @@
+> Учебный справочник. Все примеры условные, числа не переносятся в проект без источника. Правила проверяемости из SKILL.md имеют приоритет; шкалы — редакторские эвристики, а не гарантии эффективности.
+
 # Hormozi Frameworks — Complete Reference
 
 Синтез: $100M Offers (Hormozi) + Breakthrough Advertising (Schwartz) + Boron Letters (Halbert) +
@@ -24,7 +26,7 @@ Scientific Advertising (Hopkins) + RMBC (Georgi) + E5 Method (Todd Brown).
 | 4 — Product Aware | Знает тебя, не уверен | Ретаргет, e-mail | Дифференцируй, убирай сомнения, кейсы |
 | 5 — Most Aware | Готов купить | Горячая база | Просто цена + причина сейчас |
 
-**Критическая ошибка:** давать цену к уровню 1-2. Деньги потрачены — конверсии нет.
+Цена для холодной аудитории требует понятного контекста ценности; эффект проверяется тестом.
 
 ---
 
@@ -50,7 +52,7 @@ Scientific Advertising (Hopkins) + RMBC (Georgi) + E5 Method (Todd Brown).
 3. Даёт покупателю новую надежду: «в этот раз иначе»
 
 **Два типа:**
-- Тип А (Процессный) — «Revenue Tier System», «RMBC Method», «Gym Launch Protocol»
+- Тип А (Процессный) — «учебная система приоритетов», «RMBC Method», «Gym Launch Protocol»
 - Тип Б (Ингредиентный) — «паровая очистка» (Schlitz), «BiKeto™ Blend»
 
 **Как создать:**
@@ -64,14 +66,14 @@ Scientific Advertising (Hopkins) + RMBC (Georgi) + E5 Method (Todd Brown).
 | Ниша | Банальный messaging | Unique Mechanism |
 |------|--------------------|--------------------|
 | Фитнес | «Похудей за 30 дней» | «Метаболическая Перезагрузка через кетоз-окно» |
-| Коучинг | «Масштабируй бизнес» | «Revenue Tier System — AI-маршрутизация по доходности» |
+| Коучинг | «Масштабируй бизнес» | «учебная система приоритетов — AI-маршрутизация по доходности» |
 | Копирайтинг | «Пиши убедительно» | «RMBC Method — 4 шага к контролируемой конверсии» |
 
 ---
 
 ## D. Scoring Rubric
 
-| Критерий | Вес | Оценка (1-10) |
+| Критерий | Вес | Оценка (0-10) |
 |----------|-----|---------------|
 | Конкретность результата | 20% | |
 | Уникальность механизма | 20% | |
@@ -81,7 +83,7 @@ Scientific Advertising (Hopkins) + RMBC (Georgi) + E5 Method (Todd Brown).
 | Value Stack | 10% | |
 | Дедлайн / Срочность | 5% | |
 
-7.0+ → запускаем. 5.0-6.9 → доработать. < 5.0 → переписать с механизма.
+7.0+ → кандидат на тест после проверки фактуры и условий. 5.0-6.9 → доработать. < 5.0 → переписать с механизма.
 
 ---
 
@@ -162,7 +164,7 @@ Value = (Dream Outcome x Perceived Likelihood) / (Time Delay x Effort & Sacrific
 - Дедлайны на принятие решения
 
 ### ОБЯЗАТЕЛЬНО: Reason Why
-- Любая скидка/ограничение ДОЛЖНО иметь правдоподобную причину
+- Любая скидка/ограничение ДОЛЖНО иметь реальную подтверждённую причину
 - Grand opening, birthday, damaged goods, seasonal, anniversary
 - Без причины = выглядит как манипуляция
 
@@ -179,7 +181,7 @@ Value = (Dream Outcome x Perceived Likelihood) / (Time Delay x Effort & Sacrific
 - "Comment GUIDE"
 - "Click link in bio"
 
-**Reason why now** — любая причина лучше, чем никакой:
+**Reason why now** — только реальная и релевантная причина:
 - "Because we only have X left"
 - "Because this is free"
 - "Because it's my birthday"
@@ -384,22 +386,18 @@ Good offer gets people to START. Good bonuses get them to STICK.
 
 ## 14. Customer Financed Acquisition (CFA)
 
-### Definition:
-Gross profit from customer in first 30 days > cost to acquire them
+Идея: сравнивать маржинальный вклад нового клиента в выбранном периоде со стоимостью
+привлечения. Быстрая окупаемость может освобождать средства для следующего теста.
+Она не гарантирует возможность масштабирования.
 
-### Why 30 days:
-Credit card = 30 days interest-free. Max out card → customers pay it off → free customers + profit
+Проверяй CAC, валовую/маржинальную прибыль, период окупаемости, сроки поступлений,
+возвраты, стоимость поставки и пределы команды. Не смешивай выручку с прибылью.
+30 дней — пример периода наблюдения, а не универсальная норма или кредитное условие.
 
-### 3 Metrics:
-- **CAC** (Cost to Acquire Customer) → lower
-- **LTGP** (Lifetime Gross Profit) → increase
-- **PPD** (Payback Period) → decrease
-
-### Level 3 (Hyper-scaling):
-30-day GP > 2x CAC → double business every month without outside capital
-
-### Dan Kennedy Quote:
-"He who can spend the most to acquire a customer, wins"
+Сначала подтвердить расчёты и денежный поток на небольшой когорте; затем проверить
+изменение CAC и качества при росте бюджета. Положительная экономика одной когорты
+не обещает удвоение бизнеса каждый месяц. Исчерпание кредитного лимита не является
+методом проверки оффера и не входит в эту методику.
 
 ---
 
